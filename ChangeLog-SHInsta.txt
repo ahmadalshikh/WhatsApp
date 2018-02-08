@@ -1,19 +1,18 @@
-{"version_code":2,"content":"
-<p>رسالة لدعم المطور</p>
+{"version_code":4,"content":"
+<p>تحديث 1.20</p>
 
-<li>إخواني مستخدمي SHInstagram وإنستغرام بلس</li>
-<li>هذه الرسالة لدعم المطور من خلال الضغط على كلمة تحديث</li>
-<li>والدخول للموقع والضغط على الإعلانات</li>
-<li>لدعمي مادياً لكي أستمر بتطوير هذه النسخة</li>
-<li>تحياتي لكم المطور أحمد الشيخ علي</li>
-<li>هذه الرسالة سيتم إيقافها قريباً</li>
+<li>إضافة سيرفر ثيمات يمكنك الان اختيار الثيم الخاص بك</li>
+<li>إضافة خيارات جديدة لتغيير ثيم شاشة البروفايل</li>
+<li>إضافة خيارات جديدة لتغيير ثيم شاشة التنبيهات</li>
+<li>إصلاح ظهور خط ابيض في الشاشة الرئيسية</li>
+<li>لتسجيل الدخول عبر الفيسبوك (الغي تثبيت الفيسبوك ثم سجل دخول بالانستقرام ثم ثبت تطبيق الفيسبوك)</li>
+<li>إصلاحات اخرى</li>
 
-<li> Message to support the developer </li>
-<li> Brothers users SHInstagram and Intram Plus </li>
-<li> This message to support the developer by pressing the word update </li>
-<li> Enter the site and click on ads </li>
-<li> To support me financially to continue developing this version </li>
-<li> This message will be turned off soon </li>
+<li> Added Server Themes for In-App Download</li>
+<li> Added Options to Theme Profile Screen(Mod 6)</li>
+<li> Added Options to Theme Notifications Screen(Mod 5)</li>
+<li> Fixed White line on Home Screen</li>
+<li> Many More Fixes</li>
 
-","url":"http://ahmadmods.blogspot.com/p/blog-page_5.html"
+","url":"http://ahmadmods.blogspot.com/2017/10/shinstagram-instagram-shinstagram-15.html"
 }
