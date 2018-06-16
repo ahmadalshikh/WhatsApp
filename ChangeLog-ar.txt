@@ -1,5 +1,6 @@
 {"version_code":451204,"content":"
 <p>تحديث 2.10</p>
+<p>(نسخة العيد)</p>
 
 <li>التحديث لنسخة الماركت 2.18.122</li>
 <li>إمكانية السحب من اليمين إلى اليسار لإغلاق الدردشة (SHMods > المزيد من الإعدادات الخيار رقم 6.22</li>
@@ -22,6 +23,7 @@
 <li>تحديث اللغة الايطالية والبرازيلية</li>
 <li>إصلاحات اخرى</li>
 
+<p>(Eid Edition)</p>
 <li> New Base Updated to 2.18.122</li>
 <li> Swipe from left to right to exit conversations (Mod 6.22)</li>
 <li> Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
