@@ -47,5 +47,5 @@
 <li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
 <li> Many Other Fixes</li>
 
-","url":"http://www.ahmadmods.com/2017/12/shwhatsapp.html"
+"،" رابط ":" http://ahmadmods.blogspot.com/2017/12/shwhatsapp.html "
 }
