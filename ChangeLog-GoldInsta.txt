@@ -1,1 +1,16 @@
-po
+{"version_code":6,"content":"
+<p>تحديث 1.40</p>
+
+<li>التحديث لنسخة الماركت 49.0.0.15.8</li>
+<li>يمكنك تمييز اي محادثة بنجمة</li>
+<li>يمكنك فرز المحادثات حسب توقيت الرسائل او حسب المحادثات المميزة بنجمة</li>
+<li>إصلاح عدم فتح المحادثات وإن البرنامج يحتاج تحديث</li>
+<li>إصلاحات أخرى</li>
+
+<li> New Base Updated to 49.0.0.15.89 </li>
+<li> Added Chats Filter </li> 
+<li> Slider Filter for Stories </li>
+<li> Other Fixes </li>
+
+","url":"http://dev-ahmad.blogspot.com/2018/10/GoldInsta.html"
+}
