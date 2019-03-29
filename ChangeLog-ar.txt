@@ -1,7 +1,8 @@
-{"version_code":451207,"content":"
-<p>تحديث جديد V2.40</p>
+{"version_code":451208,"content":"
+<p>تحديث جديد V2.45</p>
 
 <li> التحديث لنسخة الماركت 2.18.327</li>
+<li> إصلاح عدم تحميل الحالة الستوري</li>
 <li> إضافة الخيار 6.23 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة SHWhatsApp</li>
 <li> يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحدث بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة</li>
 <li> إضافة أيقونات جديدة</li>
@@ -14,6 +15,7 @@
 <li> إصلاحات أخرى</li>
 
 <li> New Base Updated to 2.18.327</li>
+<li> Fixed Download story</li>
 <li> Added Option to Disable click on Header for Hidden Chats (Mod 6.23)</li>
 <li> Added Now You can Sort Messages Sent By (Newest/Oldest)</li>
 <li> Added New Launcher Icons</li>
