@@ -1,1 +1,1 @@
-{'num':'1', 'msgs':'\nتم العثور على تحديث جديد\nيرجى الضغط على كلمة فتح للدخول للموقع وتحديث النسخة التي تستخدمها\nملاحظة: لا تقم بحذف الإصدار القديم، فقط قم بالتحديث وتثبيت الجديد فوق القديم\n\nThis app is FREE and does NOT cost any money!\nIf you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automatically.\nNo need to buy it\n'}
+{'num':'1', 'msgs':'\nتم العثور على تحديث جديد\nيرجى الضغط على كلمة فتح للدخول للموقع\n\nNew Update to SHWhatsApp V2.90\n'}
