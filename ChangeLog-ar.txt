@@ -1,8 +1,8 @@
 {
   "Gold": {
-    "update_code": "1",
-    "reminder_time": "1",
-    "update_version": "V5.20",
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "V5.10",
     "com.sh1whatsapp": "https://devahmed.com/2017/12/shwhatsapp.html",
     "com.shwhatsapp3": "https://devahmed.com/2017/12/shwhatsapp.html",
     "com.shwhatsapp4": "https://devahmed.com/2017/12/shwhatsapp.html",
